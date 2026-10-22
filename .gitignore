@@ -1,0 +1,34 @@
+
+ 
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local secrets and environment files
+.env
+.env.*
+
+# Local incident database
+security_incidents.db
+
+# Temporary inspection script
+inspect_db.py
+
+# Generated files
+*.log
+.DS_Store
+
+
+# Accidental empty files
+/20
+/26.1.2
+/python
+
+# Accidental empty files
+/20
+/26.1.2
+/python
