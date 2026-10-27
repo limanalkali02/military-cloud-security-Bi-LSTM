@@ -124,3 +124,16 @@ the project folder. It survives restarts. You can:
   packet/flow feature extraction if you want to move to live capture —
   everything downstream (windowing, inference, debounce, logging,
   dashboard) works unchanged.
+## Dashboard Screenshots
+
+The screenshots below show the Military Cloud Security Framework dashboard and its monitoring interface.
+
+### Main Dashboard
+![Military Cloud Security Dashboard](m2.png)
+
+### Network Monitoring
+![Network Monitoring Interface](m3.png)
+
+### Security Analysis
+![Security Analysis Interface](mi.png)
+
